@@ -1,2 +1,3 @@
-# inf653_2021
-Inf653 2021 Computação de Alto Desempenho
+# Inf653 2021 Computação de Alto Desempenho
+
+Material da Disciplina de Inf653
