@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4in"
+   height="3in"
+   viewBox="0 0 101.6 76.2"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   sodipodi:docname="cpu_gpu_mem3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.7925406"
+     inkscape:cx="193.85893"
+     inkscape:cy="143.65086"
+     inkscape:window-width="1294"
+     inkscape:window-height="704"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     width="4in"
+     units="in" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path60903" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path60906" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path60897" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path60900" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g46324"
+       transform="translate(13.340425,2.0544025)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.165"
+         id="rect31"
+         width="18.853189"
+         height="9.3301373"
+         x="50.622555"
+         y="13.448203"
+         ry="1.6986436" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="55.116856"
+         y="20.135687"
+         id="text1905"><tspan
+           sodipodi:role="line"
+           id="tspan1903"
+           style="font-size:4.93889px;stroke-width:0.264583"
+           x="55.116856"
+           y="20.135687">GPU</tspan></text>
+    </g>
+    <g
+       id="g46319"
+       transform="translate(2.3499452,0.50634731)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.165"
+         id="rect31-3"
+         width="18.853189"
+         height="9.3301373"
+         x="13.070082"
+         y="14.513882"
+         ry="1.6986436" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="17.098368"
+         y="20.682596"
+         id="text1905-6"><tspan
+           sodipodi:role="line"
+           id="tspan1903-7"
+           style="font-size:4.93889px;stroke-width:0.264583"
+           x="17.098368"
+           y="20.682596">CPU</tspan></text>
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.11771"
+       id="rect39189"
+       width="98.025642"
+       height="73.086838"
+       x="2.1975083"
+       y="1.9896821"
+       ry="1.6392299" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.165"
+       id="rect46348"
+       width="27.200937"
+       height="29.07995"
+       x="11.049776"
+       y="29.069952"
+       ry="1.6986436" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.165"
+       id="rect46348-5"
+       width="30.290846"
+       height="28.915171"
+       x="59.082558"
+       y="29.005741"
+       ry="1.6986436" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="12.53303"
+       y="35.551765"
+       id="text47537"><tspan
+         sodipodi:role="line"
+         id="tspan47535"
+         style="stroke-width:0.264583"
+         x="12.53303"
+         y="35.551765">a.</tspan></text>
+    <rect
+       style="fill:#800000;stroke:#000000;stroke-width:0.365;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect53132"
+       width="19.393265"
+       height="4.9345551"
+       x="16.339136"
+       y="32.228569"
+       ry="0" />
+    <rect
+       style="fill:#800000;stroke:#000000;stroke-width:0.25866;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect53132-9"
+       width="9.533721"
+       height="5.0408955"
+       x="44.652737"
+       y="44.162319"
+       ry="0" />
+    <rect
+       style="fill:#800000;stroke:#000000;stroke-width:0.32874;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect53132-9-3"
+       width="15.616727"
+       height="4.9708152"
+       x="68.916084"
+       y="31.881384"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="12.53303"
+       y="40.48632"
+       id="text47537-3"><tspan
+         sodipodi:role="line"
+         id="tspan47535-5"
+         style="stroke-width:0.264583"
+         x="12.53303"
+         y="40.48632">b.</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect53132-6"
+       width="19.393265"
+       height="4.9345551"
+       x="16.339136"
+       y="37.163124"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="61.953522"
+       y="34.976498"
+       id="text47537-2"><tspan
+         sodipodi:role="line"
+         id="tspan47535-9"
+         style="stroke-width:0.264583"
+         x="61.953522"
+         y="34.976498">d_a.</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect53132-1"
+       width="19.393265"
+       height="4.9345551"
+       x="68.881042"
+       y="31.952684"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="61.587067"
+       y="39.920658"
+       id="text47537-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan47535-5-7"
+         style="stroke-width:0.264583"
+         x="61.587067"
+         y="39.920658">d_b.</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect53132-6-0"
+       width="19.393265"
+       height="4.9345551"
+       x="68.881042"
+       y="36.887238"
+       ry="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="M 39.360777,42.462011 58.962024,42.290584"
+       id="path60838"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="45.423328"
+       y="39.953575"
+       id="text63184"><tspan
+         sodipodi:role="line"
+         id="tspan63182"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         x="45.423328"
+         y="39.953575">PCI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="62.858452"
+       y="62.461861"
+       id="text70101"><tspan
+         sodipodi:role="line"
+         id="tspan70099"
+         style="stroke-width:0.264583"
+         x="62.858452"
+         y="62.461861">Global Memory</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="17.803637"
+       y="62.000423"
+       id="text72495"><tspan
+         sodipodi:role="line"
+         id="tspan72493"
+         style="stroke-width:0.264583"
+         x="17.803637"
+         y="62.000423">Memory</tspan></text>
+  </g>
+</svg>
